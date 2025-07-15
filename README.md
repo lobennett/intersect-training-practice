@@ -15,4 +15,4 @@ The dates so far have been:
 The INTERSECT project is supported by NSF awards [2017424](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2017424)
 and [2017259](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2017259).
 
-Adrienne's super cool change.
+Adrienne's cool change.
